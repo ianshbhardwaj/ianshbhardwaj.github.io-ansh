@@ -1,4 +1,4 @@
 # ianshbhardwaj.github.io
 
 
-Wellcome to Ansh' Website
+Welcome to Ansh' Website
